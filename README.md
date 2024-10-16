@@ -1,4 +1,5 @@
 TRIANGULO
+
 Descrição do projeto: Este projeto cria um sistema simples utilizando a linguagem Java para criar com Classes, atendendo os requisitos:
 
 -Crie um projeto no com um pacote chamado utilidades e dentro uma classe chamada FuncoesUteis com os métodos:
