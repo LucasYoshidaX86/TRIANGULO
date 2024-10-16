@@ -6,10 +6,15 @@ Descrição do projeto: Este projeto cria um sistema simples utilizando a lingua
 -Soma(int, int) que retorna a soma dos parâmetros;
 -Triangulo(int altura) que exibe um triângulo com a altura especificada. Exemplo:
 x
+
 xx
+
 xxx
+
 xxxx
+
 Xxxxx
+
 
 -printArquivo(String arquivo) que lê um arquivo de texto e imprime seu conteúdo.
 -Crie a classe Main em outro pacote e teste as funções da classe FuncoesUteis.
