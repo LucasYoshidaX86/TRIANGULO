@@ -5,6 +5,7 @@ Descrição do projeto: Este projeto cria um sistema simples utilizando a lingua
 -Crie um projeto no com um pacote chamado utilidades e dentro uma classe chamada FuncoesUteis com os métodos:
 -Soma(int, int) que retorna a soma dos parâmetros;
 -Triangulo(int altura) que exibe um triângulo com a altura especificada. Exemplo:
+
 x
 
 xx
